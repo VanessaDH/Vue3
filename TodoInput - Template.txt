@@ -1,0 +1,6 @@
+<template>
+  <div class="todo-input">
+    <input placeholder="What needs to be done?" />
+    <button>Add</button>
+  </div>
+</template>
