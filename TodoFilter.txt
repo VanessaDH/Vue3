@@ -1,0 +1,7 @@
+<template>
+  <div class="todo-filter">
+    <label>Filter todos:</label>
+    <inputplaceholder="Search…" />
+    <span class="filter-hint">Showing:</span>
+  </div>
+</template>
