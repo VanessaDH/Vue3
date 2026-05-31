@@ -1,0 +1,14 @@
+<template>
+  <ul class="todo-list">
+    <li class="empty-state">
+      No todos yet — add one above!
+    </li>
+
+    <li class="todo-item">
+      <input type="checkbox"/>
+      <span>{{ todo.title }}</span>
+
+      <button class="delete-btn">✕</button>
+    </li>
+  </ul>
+</template>
